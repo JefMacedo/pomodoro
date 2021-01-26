@@ -1,9 +1,10 @@
 :root {
     --time-color: #05ec8b;
 }
-body {
+
+/* body {
     background-color: #000;
-}
+} */
 
 .circle-container {
     transform: rotate(-90deg);
